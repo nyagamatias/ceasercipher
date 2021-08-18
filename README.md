@@ -18,7 +18,10 @@ The Caesar Cipher technique is one of the earliest method of encryption techniqu
    ```java
     gradle test
 ```
+## Author(S) Information
 
+    Matias Nyaga
+    
 ## License
 
 Caesar Cipher was released under [MIT](LICENSE)
