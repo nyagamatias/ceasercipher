@@ -24,6 +24,4 @@ The Caesar Cipher technique is one of the earliest method of encryption techniqu
     
 ## License and Copyright
 
-Caesar Cipher was released under [MIT](LICENSE)
-
 
