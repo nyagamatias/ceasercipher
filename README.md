@@ -22,7 +22,7 @@ The Caesar Cipher technique is one of the earliest method of encryption techniqu
 
     Matias Nyaga
     
-## License
+## License and Copyright
 
 Caesar Cipher was released under [MIT](LICENSE)
 
