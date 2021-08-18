@@ -1,6 +1,6 @@
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DecodingTest {
     Decoding testDecoding = new Decoding( 2, "MGNXKP MQUIGK");
